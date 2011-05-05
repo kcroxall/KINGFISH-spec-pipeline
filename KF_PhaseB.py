@@ -4,7 +4,7 @@
 #       BETA version tested in HIPE 7.0.815    #
 #         person to blame: Kevin Croxall       #
 #            (aside from the NHSC)             #
-#                 Apr 14, 2011                 #
+#                 May 1, 2011                  #
 ################################################
 
 # A list of the Phase A pools that are to be processed
@@ -285,9 +285,9 @@ print "CONGRATULATIONS! Phase B complete!"
 
 ################################################
 #                                              #
-#    PHASE A: KINGFISH Spectroscopic Pipeline  #
+#    PHASE B: KINGFISH Spectroscopic Pipeline  #
 #       BETA version tested in HIPE 7.0.815    #
 #         person to blame: Kevin Croxall       #
 #            (aside from the NHSC)             #
-#                 Apr 14, 2011                 #
+#                 May 1, 2011                  #
 ################################################
